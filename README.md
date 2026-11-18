@@ -9,7 +9,7 @@ Cybersecurity professional with CompTIA Security+ and ISC2 Certified in Cybersec
 
 ## Education
 
-- Associate of Science, Computer Science
+- Associate of Science, Computer Science (Highest Honors)
 - Southern New Hampshire University
 
 ## Areas of Interest
@@ -44,6 +44,12 @@ Cybersecurity professional with CompTIA Security+ and ISC2 Certified in Cybersec
 - Networking Fundamentals
 - Risk Management
 - Documentation & Technical Writing
+
+## Current Focus
+- Security Operations Center(SOC) Analyst opportunities
+- Identity & Access Management(IAM)
+- SIEM technologies and security monitoring
+- Vulnerability Management
 
 ## Contact
 
